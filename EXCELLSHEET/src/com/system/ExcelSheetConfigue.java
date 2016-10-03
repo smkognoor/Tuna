@@ -29,11 +29,8 @@ public class ExcelSheetConfigue {
 		catch(Exception e){
 			
 			System.out.println(e.getMessage());
-		}
-		
+			}
 	}
-	
-	
 	
 	public String getData(int SheetNumber, int Rows, int col){
 		
