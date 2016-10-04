@@ -10,6 +10,9 @@ public class simple {
 		System.out.println("hi malleshe");
 		System.out.println("namaste Shashi");
 		
+		int i=20;
+		System.out.println(i);
+		
 	
 	}
 
