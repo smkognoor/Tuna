@@ -56,7 +56,7 @@ public class Provide{
 			data1[i][0]=ec.getData(0, i, 0);
 			
 			
-			
+			data1[i][0]=ec.getData(0, i, 1);
 			
 			
 		}
