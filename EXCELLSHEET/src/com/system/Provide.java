@@ -40,6 +40,8 @@ public class Provide{
 	
 	
 	
+	
+	
 	@DataProvider(name="wordpress")
 	public Object[][] dataAcces(){
 		
@@ -60,7 +62,6 @@ public class Provide{
 			
 			
 		}
-		
 		return data1;
 		
 		
