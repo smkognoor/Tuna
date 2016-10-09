@@ -37,7 +37,10 @@ public class Provide{
 		
 		
 	}//
-	//
+	
+	
+	
+	
 	@DataProvider(name="wordpress")
 	public Object[][] dataAcces(){
 		
