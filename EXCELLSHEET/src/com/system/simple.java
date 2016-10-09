@@ -12,7 +12,9 @@ public class simple {
 		
 		int i=20;
 		System.out.println(i);
-		
+		System.out.println(" hi shashikumar");
+		//
+		//
 	
 	}
 
