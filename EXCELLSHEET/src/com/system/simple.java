@@ -15,6 +15,9 @@ public class simple {
 		System.out.println(" hi shashikumar");
 		//
 		//
+		//
+		//
+		//
 	
 	}
 
