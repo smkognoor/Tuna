@@ -36,11 +36,7 @@ public class Provide{
 		Thread.sleep(3000);
 		
 		
-	}
-	
-	
-	
-	
+	}//
 	
 	@DataProvider(name="wordpress")
 	public Object[][] dataAcces(){
